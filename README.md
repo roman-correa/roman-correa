@@ -4,7 +4,9 @@
 Serious guy; my word is my bond.
 
 ---
+![Welcome, Need SMT Take It](image2)
 
+An illustrated banner shows a muscular person at a desk with a computer monitor and keyboard, eating chips from an orange bag. A green parrot sits on their shoulder. The monitor displays code, and the background text says “WELCOME, NEED SMT TAKE IT” in bold, light-colored letters. The color palette is muted, with earthy and dark teal tones.
 ## 🧑‍💻 About Me
 
 I'm a dedicated data scientist and student deeply passionate about extracting insights from data to solve real-world problems. I believe in precision, reliability, and always delivering on my commitments.
