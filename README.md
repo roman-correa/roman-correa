@@ -24,7 +24,8 @@ I'm a dedicated data scientist and student deeply passionate about extracting in
 ## 🚀 Notable Project
 
 ### [Vehículos Proy](https://github.com/roman-correa/vehiculos_proy)
-A comprehensive project focusing on vehicle data analysis—demonstrating my proficiency in data wrangling, modeling, and actionable insights.
+A comprehensive project focusing on vehicle data analysis—demonstrating my proficiency in data wrangling, modeling, and actionable insights. Was done by using Python as code, streamlit as the framework to show results and graphics and all that stuff in render.
+Use pandas, seaborn..... and all libraries located in requirements.txt
 
 ---
 
