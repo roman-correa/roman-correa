@@ -4,7 +4,7 @@
 Serious guy; my word is my bond.
 
 ---
-![Welcome, Need SMT Take It](qt.png)
+![Welcome, Need SMT Take It](as.png)
 
 
 ## 🧑‍💻 About Me
