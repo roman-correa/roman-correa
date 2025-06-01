@@ -4,7 +4,7 @@
 Serious guy; my word is my bond.
 
 ---
-![Welcome, Need SMT Take It](asd.png)
+![Welcome, Need SMT Take It](ChatGPT Image May 31, 2025, 08_42_49 PM.png)
 
 
 ## 🧑‍💻 About Me
